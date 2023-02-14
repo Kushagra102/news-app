@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Selena Ross, Scott Dance",
+            "title": "Fiona wallops Canada's Novia Scotia with storm surges expected - The Washington Post",
+            "description": "Former Hurricane Fiona made landfall in Canada early on Saturday morning, with more than 40% of Nova Scotia's population affected by outages.",
+            "url": "https://www.washingtonpost.com/world/2022/09/24/hurricane-fiona-nova-scotia-canada/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IPSOXEB3O4I63OFPBICOLXB5WY.jpg&w=1440",
+            "publishedAt": "2022-09-24T10:40:23Z",
+            "content": "One of the strongest storms ever to hit Canada slammed into Nova Scotias coastline early Saturday, leaving hundreds of thousands of people without power.\r\nFormer Hurricane Fiona made landfall early o… [+2844 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WESH Orlando"
+            },
+            "author": null,
+            "title": "NHC forecasts Tropical Storm Ian will hit Florida as Category 3 hurricane - WESH 2 Orlando",
+            "description": "Find the latest track of Tropical Storm Ian here:",
+            "url": "https://www.wesh.com/article/tropical-storm-ian-track-florida/41352046",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/dynamic/wesh/HURR_B_PATH_STATS_STILL2.jpg?crop=1.00xw:1.00xh;0,0&t=2022-09-24T10:28:09.129713Z&resize=1200:*",
+            "publishedAt": "2022-09-24T09:30:00Z",
+            "content": "ORLANDO, Fla. —Tropical Depression Nine strengthened into Tropical Storm Ian Friday night. \r\nThis system is forecast to hit Florida as a Category 3 hurricane next week.\r\nAs of 5 a.m. Saturday, Tropic… [+5293 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Hugo Lowell",
+            "title": "Trump’s attempts to delay Mar-a-Lago inquiry largely fail as legal woes mount - The Guardian US",
+            "description": "Justice department gains access to about 100 documents with classified markings that the FBI seized from the resort",
+            "url": "https://amp.theguardian.com/us-news/2022/sep/24/donald-trump-investigation-mar-a-lago-legal-woes",
+            "urlToImage": null,
+            "publishedAt": "2022-09-24T09:01:00Z",
+            "content": "Donald TrumpJustice department gains access to about 100 documents with classified markings that the FBI seized from the resort\r\nSat 24 Sep 2022 10.00 BST\r\nAttempts by Donald Trump to delay the crimi… [+4654 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MLB.com"
+            },
+            "author": "John Denton",
+            "title": "Albert Pujols hits career homers 699 and 700 - MLB.com",
+            "description": "LOS ANGELES -- After Albert Pujols further solidified his baseball greatness by bashing two long balls into the Southern California night -- vaulting him into the exclusive 700 Home Run Club -- he high-fived close friend Adrian Beltré, celebrated with his Car…",
+            "url": "https://www.mlb.com/news/albert-pujols-hits-career-home-run-no-699",
+            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/mfrc0rdtrvqkxdcvy03z.jpg",
+            "publishedAt": "2022-09-24T08:15:00Z",
+            "content": "LOS ANGELES -- After Albert Pujols further solidified his baseball greatness by bashing two long balls into the Southern California night -- vaulting him into the exclusive 700 Home Run Club -- he hi… [+9500 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Johnny Depp and Attorney Joelle Rich Dating During U.S. Heard Trial - TMZ",
+            "description": "Johnny Depp and his former attorney, Joelle Rich, have actually been a thing for longer than we first thought ... but there are no plans for the two to settle down as an exclusive couple any time soon.",
+            "url": "https://www.tmz.com/2022/09/24/johnny-depp-attorney-joelle-rich-dating-heard-trial-not-exclusive/",
+            "urlToImage": "https://imagez.tmz.com/image/b5/16by9/2022/09/23/b5dc42f9a8754dbe80af1d611a535210_xl.jpg",
+            "publishedAt": "2022-09-24T08:00:00Z",
+            "content": "Johnny Depp and his former attorney, Joelle Rich, have actually been a thing for longer than we first thought ... but there are no plans for the two to settle down as an exclusive couple any time soo… [+875 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Artemis Moshtaghian, Caitlin Hu, Kathleen Magramo, Sahar Akbarzai and Richard Roth, CNN",
+            "title": "Iran restricts internet as Mahsa Amini protest deaths mount and UN calls for investigation - CNN",
+            "description": "Iranian authorities say they will restrict internet access in the country until calm is restored to the streets, as protests over the death of a young woman in the custody of the morality police rock the Islamic Republic.",
+            "url": "https://www.cnn.com/2022/09/24/middleeast/mahsa-amini-death-iran-internet-un-investigation-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220923205546-mahsa-amini-un-investigation-iran-protest-intl-hnk-super-tease.jpg",
+            "publishedAt": "2022-09-24T06:48:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Arizona can enforce near-total abortion ban, judge rules - The Guardian",
+            "description": "Ruling brings back law blocked for nearly 50 years, and means clinics offering the procedure would face criminal charges",
+            "url": "https://amp.theguardian.com/world/2022/sep/23/arizona-abortion-ban-clinics-roe-v-wade",
+            "urlToImage": "https://i.guim.co.uk/img/media/5c54515f6040e2e25b8c079f9f3a0d793ff22671/0_141_6720_4032/master/6720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0f7272705027c2b4fdd949f962a7b597",
+            "publishedAt": "2022-09-24T02:28:00Z",
+            "content": "Arizona can enforce a near-total ban on abortions that has been blocked for nearly 50 years, a judge ruled Friday, meaning that clinics statewide will have to stop providing the procedures to avoid c… [+3251 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Kevin McCarthy unveils House GOP's big ideas midterm election agenda - CBS News",
+            "description": "House Republican leader Kevin McCarthy is rolling out his party's Trump-like midterm election agenda.",
+            "url": "https://www.cbsnews.com/news/house-republicans-2022-midterm-elections-agenda-kevin-mccarthy/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/06/10/67c1bbef-f693-4397-8040-448aefb0b235/thumbnail/1200x630g2/bc7f5fc0b89d5e71a743478961e4aab7/gettyimages-1329920957.jpg",
+            "publishedAt": "2022-09-24T02:11:00Z",
+            "content": "Republican leader Kevin McCarthy unveiled the Republican Party's midterm election agenda in Pennsylvania Friday, confronting President Biden and the party in power.\r\nMcCarthy, who is poised to seize … [+9116 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Janelle Ash",
+            "title": "Taylor Swift turned down Super Bowl halftime offer: report - Fox News",
+            "description": "Taylor Swift reportedly turned down the offer from the NFL to perform during the 2023 Super Bowl halftime show. The pop star reportedly wants to finish rerecording her first six albums.",
+            "url": "https://www.foxnews.com/entertainment/taylor-swift-turned-down-super-bowl-halftime-offer-report",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/09/Taylor_Swift.jpg",
+            "publishedAt": "2022-09-24T02:02:39Z",
+            "content": "Taylor Swift was reportedly asked to host the 2023 Super Bowl halftime show, but turned down the offer because the timing is not right.\r\nAccording to TMZ, Swift was approached by the NFL to host the … [+2614 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Natasha Turak, Amanda Macias",
+            "title": "Referendums begin in Russian-occupied regions of Ukraine; long lines form at borders as Russians flee military call-up - CNBC",
+            "description": "Ukrainian and Western officials have warned the referendums are a \"sham\" whose outcomes are controlled entirely by Russia.",
+            "url": "https://www.cnbc.com/2022/09/23/russia-ukraine-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107092720-1658491755411-gettyimages-1242049294-AA_22072022_805732.jpeg?v=1663922920&w=1920&h=1080",
+            "publishedAt": "2022-09-24T00:23:00Z",
+            "content": "A team of experts tasked by the U.N. said in a new report that Russian troops committed war crimes in Ukraine.\r\nThe Independent Commission of Inquiry, which was set up by the U.N. to probe the conduc… [+830 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Samuel Agini",
+            "title": "All-time tennis great Roger Federer loses final match - Financial Times",
+            "description": "‘I would do it all over again,’ says winner of 20 Grand Slams after doubles defeat with partner and rival Rafael Nadal",
+            "url": "https://www.ft.com/content/209ddf6b-8187-4339-ae09-cc5f617ede33",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa3bd3ab3-b85d-470e-a2da-e72014cb64e7.png?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2022-09-24T00:16:17Z",
+            "content": "Tennis great Roger Federer played his last match on the professional circuit, ending a career defined by shot-making wizardry, trophy-winning performances and clashes against elite rivals in a golden… [+4769 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Hurricane Fiona Targeting Canada After Battering Bermuda - NBC News",
+            "description": "Hurricane Fiona battered Bermuda this morning, unleashing strong winds and knocking out power to about half of the island. Now, the storm is heading north to...",
+            "url": "https://www.youtube.com/watch?v=YR1cBr_9LDg",
+            "urlToImage": "https://i.ytimg.com/vi/YR1cBr_9LDg/maxresdefault.jpg",
+            "publishedAt": "2022-09-24T00:00:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kstp.com"
+            },
+            "author": null,
+            "title": "Enterovirus cases rising in children across the Twin Cities - KSTP",
+            "description": "Hospitals across the Twin Cities are seeing a rise in enterovirus cases in children.",
+            "url": "https://kstp.com/kstp-news/top-news/enterovirus-cases-rising-in-children-across-the-twin-cities/",
+            "urlToImage": "https://kstp.com/wp-content/uploads/2022/09/ENTEROVIRUS-CONCERNS_PKG_00.00.56.38.jpg",
+            "publishedAt": "2022-09-23T23:51:50Z",
+            "content": "Hospitals across the Twin Cities are seeing a rise in enterovirus cases in children.\r\nThis is in line with a recent alert from the Centers for Disease Control and Prevention, which is reporting incre… [+2616 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KCCI Des Moines"
+            },
+            "author": "James Stratton",
+            "title": "Jury finds Doug Jensen guilty of all seven charges - KCCI Des Moines",
+            "description": "Doug Jensen, the Des Moines man seen at the front of the pack of rioters inside the United States Capitol on Jan. 6, 2021, was found guilty of all seven charges against him Friday in Washington.",
+            "url": "https://www.kcci.com/article/des-moines-doug-jensen-verdict-placeholder-washington/41352503",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/11fed6bb-d1f5-45a7-9f86-a6d9a64e45e2/11fed6bb-d1f5-45a7-9f86-a6d9a64e45e2_image.jpg?crop=0.792xw:0.789xh;0.147xw,0&resize=1200:*",
+            "publishedAt": "2022-09-23T23:38:00Z",
+            "content": "WASHINGTON —Doug Jensen, the Des Moines man seen at the front of the pack of rioters inside the United States Capitol on Jan. 6, 2021, was found guilty of all seven charges against him Friday in Wash… [+2922 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vulture"
+            },
+            "author": "Jennifer Zhan",
+            "title": "Constance Wu Alleges Sexual Harassment on Fresh Off the Boat - Vulture",
+            "description": "Constance Wu has alleged that a senior producer sexually harassed her during her first year starring on ABC’s Fresh Off the Boat. She recounted the experience in her upcoming memoir, Making a Scene.",
+            "url": "http://www.vulture.com/2022/09/constance-wu-alleges-sexual-harassment-fresh-off-the-boat.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/1d3/2b6/f354019f43e2a9e040565501c05fdbb4fe-constancewu.1x.rsocial.w1200.jpg",
+            "publishedAt": "2022-09-23T23:34:49Z",
+            "content": "Constance Wu has claimed that a Fresh off the Boat producer sexually harassed and intimidated her during the groundbreaking ABC show. Per the New York Times, Wu recounts the experience in her upcomin… [+1628 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Italian election campaign ends as far right bids for power - BBC",
+            "description": "Political leaders hold rallies ahead of elections on Sunday that could bring Giorgia Meloni to power.",
+            "url": "https://www.bbc.com/news/world-europe-63015911",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/73B7/production/_126832692_melonifri.jpg",
+            "publishedAt": "2022-09-23T23:12:37Z",
+            "content": "By Paul KirbyBBC News, Rome\r\nItaly's political leaders have brought their campaigns to a close ahead of pivotal elections on Sunday that could deliver the most right-wing government since the war.\r\nG… [+4112 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Tariq Malik",
+            "title": "DART asteroid crash: What time will NASA probe hit Dimorphos on Sept. 26? - Space.com",
+            "description": "NASA's DART spacecraft will crash into the asteroid Dimorphos on Sept. 26 at 7:14 p.m. EDT. Here's how the day will unfold.",
+            "url": "https://www.space.com/dart-asteroid-impact-crash-what-time",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/v7P5zuQKX8MdXVHsWLPSBb-1200-80.jpg",
+            "publishedAt": "2022-09-23T23:10:37Z",
+            "content": "A NASA spacecraft will soon make history when it crashes into an asteroid in the world's first planetary defense test. \r\nThe Double Asteroid Redirection Test, or DART asteroid mission, will slam a sp… [+8224 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBC2 News"
+            },
+            "author": "Chief Meteorologist Allyson Rae",
+            "title": "Major hurricane possible next week, Florida impacts look likely - NBC2 News",
+            "description": "Tropical Depression 9 just upgraded to Tropical Storm Ian Friday evening.  It has been a busy few days in the tropics as Fiona, a Category 3 storm heads to Canada, and Tropical Storm Hermine formed just off the West Coast of Africa",
+            "url": "https://nbc-2.com/news/tropics/2022/09/23/tropical-depression-9-tropical-storm-hurricane-ian/",
+            "urlToImage": "https://nbc-2.com/wp-content/uploads/2022/09/tropical-storm-ian-pic-1-9_23.jpg",
+            "publishedAt": "2022-09-23T23:05:00Z",
+            "content": "Tropical Depression 9 just upgraded to Tropical Storm Ian Friday evening.  It has been a busy few days in the tropics as Fiona, a Category 3 storm heads to Canada, and Tropical Storm Hermine formed j… [+2340 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Zwiezen",
+            "title": "Report: 17-Year-Old Arrested On Suspicion Of Being Hacker Behind GTA VI Leak - Kotaku",
+            "description": "London police say the teenager was arrested as part of an investigation by the UK's Cyber Crime Unit",
+            "url": "https://kotaku.com/gta-6-vi-hack-leaker-arrested-teenager-london-laspsus-1849573250",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/1ed703fc81fa9bb93ae82ee03cbced1a.jpg",
+            "publishedAt": "2022-09-23T22:50:00Z",
+            "content": "Today, London City Police announced they had arrested a 17-year-old from Oxfordshire Thursday evening. While the police have yet to confirm why, its been reported that the teen was arrested in connec… [+1861 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sports Illustrated"
+            },
+            "author": "Mike McDaniel",
+            "title": "Nia Long Releases Statement After Celtics Coach Ime Udoka’s Suspension - Sports Illustrated",
+            "description": "The longtime partner of Udoka released a statement amid the Celtics coach’s suspension for violating franchise rules.",
+            "url": "https://www.si.com/nba/2022/09/23/nia-long-releases-statement-after-celtics-coach-ime-udokas-suspension",
+            "urlToImage": "https://www.si.com/.image/t_share/MTkyNTQ0NDg5ODMzNzY4Njk3/nia-long.jpg",
+            "publishedAt": "2022-09-23T21:57:06Z",
+            "content": "Celtics coach Ime Udoka was suspended by the organization for the entirety of the 2022–23 season on Thursday night for violating franchise rules. Udoka’s suspension came in wake of a report about his… [+1176 chars]"
+        }
+    ]
+}
